@@ -25,12 +25,14 @@ The frontend of the application is built with ReactJS, Material UI, React-router
 
 ## Images
 
-![HomePage](https://res.cloudinary.com/dhmcuv07b/image/upload/v1732469366/Homepage_j972qt.png)
+![Sign Up](https://res.cloudinary.com/dhmcuv07b/image/upload/v1732470885/Screenshot_2024-11-24_232330_gmhfyd.png)
+![Signin](https://res.cloudinary.com/dhmcuv07b/image/upload/v1732470885/Screenshot_2024-11-24_232315_rzg5fx.png)
+![HomePage](https://res.cloudinary.com/dhmcuv07b/image/upload/v1732470893/Homepage_sio9ua.png)
 ![Products](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853695/Products_vxf8pr.png)
 ![Product](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853694/Product_tnba6w.png)
 ![Payment](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853693/Payment_xrucd9.png)
 ![Cart](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853693/Cart_zpzmwr.png)
-![UserProfile](https://res.cloudinary.com/dhmcuv07b/image/upload/v1732469348/Profile_lh0etm.png)
+![UserProfile](https://res.cloudinary.com/dhmcuv07b/image/upload/v1732470885/Profile_l5wwld.png)
 ![Dashboard](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853694/Stat1_asehhd.png)
 ![Dashboard](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853694/Stat2_tw25cm.png)
 ![Dashboard](https://res.cloudinary.com/dxguqzge7/image/upload/v1682956688/Stat3_rslfzi.png)
