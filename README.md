@@ -30,13 +30,13 @@ The frontend of the application is built with ReactJS, Material UI, React-router
 ![HomePage](https://res.cloudinary.com/dhmcuv07b/image/upload/v1732470893/Homepage_sio9ua.png)
 ![Products](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853695/Products_vxf8pr.png)
 ![Product](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853694/Product_tnba6w.png)
-![Payment](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853693/Payment_xrucd9.png)
-![Cart](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853693/Cart_zpzmwr.png)
 ![UserProfile](https://res.cloudinary.com/dhmcuv07b/image/upload/v1732470885/Profile_l5wwld.png)
+![Cart](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853693/Cart_zpzmwr.png)
 ![Dashboard](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853694/Stat1_asehhd.png)
 ![Dashboard](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853694/Stat2_tw25cm.png)
 ![Dashboard](https://res.cloudinary.com/dxguqzge7/image/upload/v1682956688/Stat3_rslfzi.png)
 ![Orders](https://res.cloudinary.com/dxguqzge7/image/upload/v1682956689/Orders_cyfzkp.png)
+![Payment](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853693/Payment_xrucd9.png)
 ![Users](https://res.cloudinary.com/dxguqzge7/image/upload/v1682956689/Users_nxx1cs.png)
 
 
@@ -54,7 +54,7 @@ To run the backend server on your local machine, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/jaynarayan91/MERN-E-Commerce_QuadB.Tech.git
+   git clone https://github.com/jaynarayan91/MERN-E-Commerce_QuadB-Tech.git
    ```
 
 2. Install the dependencies:
@@ -71,7 +71,27 @@ To run the backend server on your local machine, follow these steps:
    npm install
    ```
 
-3. Start the development server:
+4. Enviromental Variables for Frontend & Backend
+   ```
+# FRONTEND
+Your Backend Port=" "
+Your All Page API = " "
+Your ADMIN_REGISTER_API=" "
+Your ADMIN_LOGIN_API=" "
+Your USER_REGISTER_API=" "
+Your USER_LOGIN_API=" "
+
+
+# BACKEND
+MONGO_URL = ""
+JWT_SECRET_KEY = ""
+JWT_EXPIRES = 7d
+RAZORPAY_API_KEY="your key id"
+RAZORPAY_API_SECERET="your seceret key"
+
+```
+
+5. Start the development server:
 
    ```
    npm start both server
