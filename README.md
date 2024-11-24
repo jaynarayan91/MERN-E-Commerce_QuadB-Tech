@@ -73,23 +73,23 @@ To run the backend server on your local machine, follow these steps:
 
 4. Enviromental Variables for Frontend & Backend
    ```
-# FRONTEND
-Your Backend Port=" "
-Your All Page API = " "
-Your ADMIN_REGISTER_API=" "
-Your ADMIN_LOGIN_API=" "
-Your USER_REGISTER_API=" "
-Your USER_LOGIN_API=" "
+<h3>FRONTEND<h3>
+     Your Backend Port=" "
+     Your All Page API = " "
+     Your ADMIN_REGISTER_API=" "
+     Your ADMIN_LOGIN_API=" "
+     Your USER_REGISTER_API=" "
+     Your USER_LOGIN_API=" "
 
 
-# BACKEND
-MONGO_URL = ""
-JWT_SECRET_KEY = ""
-JWT_EXPIRES = 7d
-RAZORPAY_API_KEY="your key id"
-RAZORPAY_API_SECERET="your seceret key"
+<h3> BACKEND</h3>
+     MONGO_URL = ""
+     JWT_SECRET_KEY = ""
+     JWT_EXPIRES = 7d
+     RAZORPAY_API_KEY="your key id"
+     RAZORPAY_API_SECERET="your seceret key"
 
-```
+  ```
 
 5. Start the development server:
 
